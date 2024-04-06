@@ -1,0 +1,10 @@
+follow 
+https://docs.djangoproject.com/en/5.0/intro/tutorial01/
+
+Creating a poll application
+    django-admin startproject mysite
+
+Enter mysite and run python manage.py runserver
+
+create app 
+     python manage.py startapp polls
